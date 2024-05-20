@@ -54,4 +54,6 @@ if( ! class_exists( 'AcrossWP_ACF_Pro_Dependency' ) ) {
             return array();
         }
     }
+
+    new AcrossWP_ACF_Pro_Dependency();
 }
